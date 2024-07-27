@@ -1,3 +1,9 @@
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/TinDog/35f6b48e215cae176808bf4347d5c79b020f8598/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/TinDog/35f6b48e215cae176808bf4347d5c79b020f8598/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/TinDog/35f6b48e215cae176808bf4347d5c79b020f8598/screenshot3.png)
+
+
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
